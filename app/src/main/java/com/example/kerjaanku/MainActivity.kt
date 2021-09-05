@@ -1,8 +1,7 @@
-package com.example.kerjaanku.view.splash.main
+package com.example.kerjaanku
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.kerjaanku.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
